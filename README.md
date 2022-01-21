@@ -20,10 +20,12 @@ on the Ad.
 ## Known Bugs
 There are no known issues / bugs
 
-## Packages Used
+## Packages/Technologies Used
 1. Python - The programming language
 2. Data table - A High-performance Dataframe Package
 3. Tidyverse - A Data Exploration & Visualization Package
+4. Psych - A Psychometric statistics Package
+5. Corrr - A Correlation Package
 
 ### License
-Copyright (c) 2021 **Andrew Wairegi**
+Copyright (c) 2022 **Andrew Wairegi**
